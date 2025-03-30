@@ -2,7 +2,8 @@
 - 👀 I’m interested in making tedious tasks more efficient and engaging through software. I also love studying many different subjects expecially numerical concepts (e.g. Physics, Computer Science, Math)
 - 🌱 I’m currently building full stack applications to practice system design and make tasks of people around me easier.
 - 💞️ I’m looking to collaborate on figuring out elegant software solutions to make our everyday lives easier and more fun.
-- 📫 How to reach me ...
+- 📫 How to reach me:
+-- Email: blloopdev@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 
