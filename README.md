@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 -- Email: blloopdev@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Coffee and honey don't mix well together.
 
 <!---
 hjblloop/hjblloop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
