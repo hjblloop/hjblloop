@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hjblloop
-- 👀 I’m interested in integrating computer science with math, chemistry, and physics concepts.
-- 🌱 I’m currently learning how to apply computer science techniques to model physical phenomena.
-- 💞️ I’m looking to collaborate on working on modeling any physical phenomena while incorporating upper level mathematical formulas and concepts such as PDE, stochastic behaviors, and statistical models.
+- 👋 Hi, I’m Jonathan Cho.
+- 👀 I’m interested in making tedious tasks more efficient and engaging through software. I also love studying many different subjects expecially numerical concepts (e.g. Physics, Computer Science, Math)
+- 🌱 I’m currently building full stack applications to practice system design and make tasks of people around me easier.
+- 💞️ I’m looking to collaborate on figuring out elegant software solutions to make our everyday lives easier and more fun.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
