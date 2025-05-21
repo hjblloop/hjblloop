@@ -3,7 +3,7 @@
 - 🌱 I’m currently building full stack applications to practice system design, learn different technologies, and make tasks of people around me easier.
 - 💞️ I’m looking to collaborate on figuring out elegant software solutions to make our everyday lives easier and more fun.
 - 📫 How to reach me:
--- Email: blloopdev@gmail.com
+-- Email: jonathanc.jcho456852@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Coffee and honey don't mix well together.
 
