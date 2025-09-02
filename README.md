@@ -6,7 +6,7 @@
 -- Email: jonathanc.jcho456852@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Coffee and honey don't mix well together.
-- <a href="https:/https://hjblloop.github.io/">My Portfolio</a>
+- <a href="https://hjblloop.github.io/">My Portfolio</a>
 
 <!---
 hjblloop/hjblloop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
