@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonathan Cho.
-- 👀 I’m interested in making tedious tasks more efficient and engaging through software. I also love studying many different subjects especially numerical concepts (e.g. Physics, Computer Science, Math)
-- 🌱 I’m currently building full stack applications to enhance productivity and user experience by upgrading manual and legacy systems to modern standards.
-- 💞️ I’m looking to collaborate on working with others to find software solutions to make our everyday lives easier and enjoyable.
+- 👀 I’m interested in making scalable and intuitive software for anyone to use. I also love studying many different subjects and create efficient models and simulations about them.(e.g. Physics, Computer Science, Math)
+- 🌱 I’m currently building full stack applications to enhance productivity and user experience for consumers by working directly with them.
+- 💞️ I’m looking to collaborate on working with others to find software solutions to make our everyday lives more efficient.
 - 📫 How to reach me:
 -- Email: jonathanc.jcho456852@gmail.com
 - 😄 Pronouns: He/Him/His
